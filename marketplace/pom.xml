@@ -8,7 +8,7 @@
 
   <artifactId>marketplace</artifactId>
   <packaging>zip</packaging>
-  <name>Nuxeo Timeoff - Nuxeo Package - Package</name>
+  <name>Marketplace - Nuxeo Timeoff - Package</name>
 
   <dependencies>
     <!-- Base distribution(s) for the MP -->
