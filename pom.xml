@@ -46,7 +46,7 @@
       </dependency>
       <dependency>
         <groupId>nuxeo-studio</groupId>
-        <artifactId>NuxeoIntranet_nux</artifactId>
+        <artifactId>nuxeo-timeoff-studio</artifactId>
         <version>${nuxeo.timeoff.studio.version}</version>
       </dependency>
     </dependencies>
