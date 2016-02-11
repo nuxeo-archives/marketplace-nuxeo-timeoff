@@ -1,0 +1,2 @@
+DEPRECATED: repository merged into https://github.com/nuxeo/nuxeo-timeoff
+
